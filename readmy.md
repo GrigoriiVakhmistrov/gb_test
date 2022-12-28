@@ -35,7 +35,8 @@
 
 6. На сайте GitHub нажимаем кнопку pull request
 
-![]()
+![Pull request](pull%20request.png)
+
 
 
 
