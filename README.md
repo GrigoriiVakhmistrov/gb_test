@@ -1,19 +1,6 @@
-# gb_test
+# GeekBrains
+**Образовательный центр** [GeekBrains](https://gb.ru)
 
-Hello, world!
+![Geekbrains logo](https://info-hit.ru/upload/iblock/e64/geekbrains_obuchenie_it_spetsialnostyam.png)
 
-Всем удачи в обучении!)
-
-I did it!
-
-# Не сдавайтесь, учитесь!
-
-New day - new challenge!
-
-Григорий, добрый вечер:)
-
-> Жахаем с новой ветки!
-
-Создали новую ветку
-
-123
+Скриншот с компа ![Скриншот с компа](91431239_2798815353498925_8389458429294411776_o.png)
